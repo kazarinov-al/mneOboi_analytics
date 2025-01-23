@@ -1,11 +1,11 @@
-
 {
   "homepage": "https://github.com/kazarinov-al/mneOboi_analytics.git",
-  "name": "mneOboi_analytics",
+  "name": "mneoboi_analytics",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
+    "express": "^4.21.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-scripts": "5.0.1",
@@ -40,7 +40,10 @@
   },
   "devDependencies": {
     "gh-pages": "^6.3.0"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
-
-
